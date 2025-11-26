@@ -1,0 +1,12 @@
+create table USER(username varchar(50), userid int , usercity varxchar(10));
+
+abc,1,hyd
+eqr,2,chn
+eqr,2,chn
+eqr,3,chn
+
+ 1 1
+ 2 2
+ 3 1
+
+ select userid, count(*) as count from user group by userid order by userid;

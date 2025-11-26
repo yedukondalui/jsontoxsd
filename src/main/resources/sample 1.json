@@ -1,0 +1,11 @@
+ {
+  "student": {
+    "name": "Joh",
+	"id": 2,
+    "age": 25,
+    "address": {
+      "city": "Hyderabad",
+      "zipcode": "500222"
+    }
+  }
+}
